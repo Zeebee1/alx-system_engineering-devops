@@ -1,2 +1,2 @@
 #!/bin/bash
-head /etc/passwd <-display 10 lines of
+head -n 10 /etc/passwd
